@@ -41,8 +41,8 @@
 - Runner/Controller Area : contains variables decleration. Which will be use in Operation/Model Area.
 
 - Operation/Model Area   : contains all functions that will run functionalities of the game. 
-  This area divided to six parts : 
-      - On page loaded
+  - This area divided to six parts : 
+      - On page loaded.
       - Setting Deck of cards.. before start the game. 
       - Game Functionalities.
       - Start count : Moves -- Timer -- Clicks -- Rating.
