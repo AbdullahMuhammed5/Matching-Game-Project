@@ -1,12 +1,12 @@
 # Matching-Game-Project
 
-/*
-    Author : Abdullah Muhammed.(abdo56668@gmail.com)
-    content : FEND Memory Game Project.
-    Start date : 26/3/2018
-    End date : 
-*/
+- Author : Abdullah Muhammed(abdo56668@gmail.com).
+- content : FEND Memory Game Project.
+- Start date : 26/3/2018.
+- End date : 31/3/2018.
+
 //_______________________________________________________Instrutions_________________________________________________//
+
 /*
  * Create a list that holds all of your cards. 
  */
