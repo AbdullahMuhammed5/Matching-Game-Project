@@ -104,9 +104,9 @@ function startGame(card){
     }
 
     if(OpenedCards.length == 2){
-        setTimeout(function(){removeIncorrenct(OpenedCards);},600);
-        setTimeout(function(){removeCorrenct(OpenedCards);},600);
-        setTimeout(function(){OpenedCards.length = [];},700);
+        setTimeout(function(){removeIncorrenct(OpenedCards);},300);
+        setTimeout(function(){removeCorrenct(OpenedCards);},300);
+        setTimeout(function(){OpenedCards.length = [];},400);
     }
 
     countClicks();
